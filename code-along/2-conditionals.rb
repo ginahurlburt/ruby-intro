@@ -30,7 +30,7 @@ end
 
 # Elsif Conditional Logic
 home_team = 1 
-away_tema = 1
+away_team = 1
 if home_team > away_team
     puts "winner!!!!"
 elsif home_team == away_team
